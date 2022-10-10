@@ -24,6 +24,8 @@ jobs:
       matrix:
         include:
           - platform: ds918p
+            version: 7.0.1-42218
+          - platform: ds918p
             version: 7.1.1-42962
 
     steps:
