@@ -3,7 +3,8 @@
         "pid": "0x0001",
         "vid": "0x46f4",
         "sn": "1234XXX123",
-        "mac1": "XXYYXXYYXXYY"
+        "mac1": "001132123456",
+        "mac2": "001132123457"
     },
     "synoinfo": {},
     "ramdisk_copy": {},
